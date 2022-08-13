@@ -5,3 +5,6 @@ As a personal exercise, this project aims to familiarize myself with Python synt
 >提交信息常用中文|Commit Message generally in Chinese
 
 *这句话是为了测试vscode内的提交信息格式，并试试markdown的斜体*
+
+>Here is the website of the original author
+https://learnpythonthehardway.org/python3/
