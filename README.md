@@ -8,3 +8,6 @@ As a personal exercise, this project aims to familiarize myself with Python synt
 
 >Here is the website of the original author
 https://learnpythonthehardway.org/python3/
+### 练习文件提交格式
+    名字首字母简写_exn
+>举例：*dcy_ex1*
