@@ -1,6 +1,7 @@
 # LearnPython3TheHardWay
-## 简述//introduction
+## 简述//Introduction
 本项目作为个人练习，旨在通过《笨方法学python》一书熟悉python语法，同时借机熟悉git的各种操作。
+
 As a personal exercise, this project aims to familiarize myself with Python syntax through the book "Learn Python3 The Hard Way", meanwhile, I wanna to take the opportunity to familiarize myself with Git operations.
 >提交信息常用中文|Commit Message generally in Chinese
 
@@ -8,6 +9,6 @@ As a personal exercise, this project aims to familiarize myself with Python synt
 
 >Here is the website of the original author
 https://learnpythonthehardway.org/python3/
-### 练习文件提交格式
+## 练习文件提交格式//Practice submission format
     名字首字母简写_exn
 >举例：*dcy_ex1*
