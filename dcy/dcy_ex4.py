@@ -14,4 +14,3 @@ print("There will be", cars_not_driven, "empty cars today.")
 print("We can transport", carpool_capacity, "to carpool today.")
 print("We have", passengers, "to carpool today.")
 print("We need to put about", average_passengers_per_car, "in each car.")
-#print中分隔符逗号“，”后面需要跟着一个空格不要忘了，一些英文语句规范。
