@@ -19,3 +19,4 @@ total = round(my_age + my_height + my_weight,2)
 #round(x,y) | x = 被舍入数 ， y = 保留位数
 print(f"If I add {my_age}, {my_height}, and {my_weight} I get {total}.")
 #捏妈我还以为等号前后有空格是python严格缩进限制的
+#test
