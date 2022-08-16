@@ -10,3 +10,5 @@
 >   人在搭飞机，回到中山大概晚上一两点，看下还有没有空写。*该消息用手机输入并push，vscode.dev牛逼*
 
 >   I still fuuuucking aliiiiiiiiiiiivvvvvvvveeee！-- 4:12:29
+* ## 2022年8月16日18:26:36 | ex8-ex9
+>   First today！！
