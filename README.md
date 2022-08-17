@@ -9,7 +9,10 @@
 *这句话是为了测试vscode内的提交信息格式，并试试markdown的斜体*
 
 >这里是原作者网址//*Here is the website of the original author*
-https://learnpythonthehardway.org/python3/
+>* https://learnpythonthehardway.org/python3/
+
+>这里是网上找到的中译版本，但是只有网页版//*the Chinese version , but only on web*
+>* https://www.zybuluo.com/Standalone/note/1677177
 ---
 ## 练习文件提交格式//*Practice submission format*
 
