@@ -12,3 +12,5 @@
 >   I still fuuuucking aliiiiiiiiiiiivvvvvvvveeee！-- 4:12:29
 * ## 2022年8月16日18:26:36 | ex8-ex9
 >   First today！！
+* ## 2022年8月17日11:55:25 | ex10-ex11(12)
+>   还是差不多的东西，input稍微有点不同，偷瞄了下几章（13）貌似开始有点不同
