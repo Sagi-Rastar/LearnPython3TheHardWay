@@ -21,7 +21,7 @@ print("Your second variable is:", third)
 #
 #在终端内输入的|python {your_filename} {变量1} {变量2} {变量3}|
 #这里的{your_filename}就是arg，后面的{变量123}就是所谓的v，两者合起来就是argv
-#所以这段程序里的第三行就是python的解包过程，写在最上面，将argv的值用前4个名字解包
+#所以这段程序里的第四行就是python的解包过程，写在最上面，将argv的值用前4个名字解包
 #
 #Q&A：
 #Q：arg一定要用script这个名字解包吗？
