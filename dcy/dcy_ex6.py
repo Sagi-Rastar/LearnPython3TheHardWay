@@ -24,7 +24,7 @@ print(f"I also said: '{y}'")
 
 hilarious = False
 #变量“好笑程度” no，不好笑
-joke_evaluation = "Isn't that josk so funny?! {}"
+joke_evaluation = "Isn't that joke so funny?! {}"
 #字符串变量，注意双引号前没有加f
 print(joke_evaluation.format(hilarious))
 #草，梦回面向对象，format()函数的作用？转换类型？
