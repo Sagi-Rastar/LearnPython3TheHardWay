@@ -139,3 +139,8 @@ cheese_and_crackers(amount_of_cheese + 100, amount_of_crackers + 1000)
 ```py
 貌似没啥讲的（
 ```
+
+- 函数的返回值
+```py
+这不用自己定义返回值的数据类型？
+```
