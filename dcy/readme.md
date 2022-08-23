@@ -34,3 +34,7 @@
 >   函数的返回值
 
 >   czj nb捏
+* ## 2022年8月23日14:32:48 | ex23-24
+>   DECODE  BYTES! ENCODE STRINGS!
+
+>   nnd今天这个ex23把我绕了一下
