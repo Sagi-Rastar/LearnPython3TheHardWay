@@ -3,6 +3,7 @@
 #hairs = ['brown', 'blond', 'red']
 #eyes = ['brown', 'blue', 'green'] weights = [1, 2, 3, 4]
 #
+#for-loop
 from __future__ import print_function
 
 
