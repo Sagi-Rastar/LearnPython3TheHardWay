@@ -13,11 +13,13 @@ def print_loop_i(a):
     numbers = []
     while i < a:
         # python里面的i初始化要在前面做。
-        print(f"At the top i is {i}")
+        print("-" * 10)
+        print("Numbers now: ", numbers)
+        print(f"Now I gonna add {i} .")
         numbers.append(i)
         i += 1
         print("Numbers now: ", numbers)
-        print(f"At the bottom i is {i}")
+        print(f"Next i is {i}.")
 
 print("The numbers: ")
 numbers = []
