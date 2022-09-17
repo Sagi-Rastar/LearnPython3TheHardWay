@@ -1,8 +1,10 @@
 from argparse import Action
 from locale import currency
+from math import radians
 from random import random
 from sys import exit
 from random import randint
+from termios import INPCK
 from textwrap import dedent
 
 class Scene(object):
@@ -97,3 +99,20 @@ class CentralCorridor(Scene):
         else:
             print("DOES NOT COMPUTE!")
             return 'central_corridor'
+
+class LaserWeaponArmory(Scene):
+
+    def enter(self):
+        print(dedent("""
+            You do a dive……
+            """))
+
+    code = f"{randint(1,9)}{randint(1,9)}{randint(1,9)}"
+    guess = input("[keypad]> ")
+    guesses = 0
+
+    while guess != code and guesses < 10:
+        print("BZZZZZEDDDD!")
+        guesses += 1
+        guess = input("[keypad]> ")
+    
