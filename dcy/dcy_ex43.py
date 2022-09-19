@@ -107,12 +107,25 @@ class LaserWeaponArmory(Scene):
             You do a dive……
             """))
 
-    code = f"{randint(1,9)}{randint(1,9)}{randint(1,9)}"
-    guess = input("[keypad]> ")
-    guesses = 0
-
-    while guess != code and guesses < 10:
-        print("BZZZZZEDDDD!")
-        guesses += 1
+        code = f"{randint(1,9)}{randint(1,9)}{randint(1,9)}"
         guess = input("[keypad]> ")
-    
+        guesses = 0
+
+        while guess != code and guesses < 10:
+            print("BZZZZZEDDDD!")
+            guesses += 1
+            guess = input("[keypad]> ")
+
+        if guess == code:
+            print(dedent("""
+                The container clicks open and the seal breaks, letting gas out......
+                """))
+            return 'the_bridge'
+        else:
+            print(dedent("""
+                LOLOLOLOLOLOLO
+                """))
+            return 'DEATH'
+
+
+ 
